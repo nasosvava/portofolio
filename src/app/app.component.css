@@ -1,0 +1,9 @@
+.contact-arrow{
+    margin: 0 8px;
+    position: relative;
+    top: -1px;
+    left: 0;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 18px;
+}
