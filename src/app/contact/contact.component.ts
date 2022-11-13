@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {faArrowRight} from "@fortawesome/free-solid-svg-icons";
 
 
 @Component({
@@ -8,6 +9,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ContactComponent implements OnInit {
 
+  arrowRightIcon = faArrowRight;
 
   constructor() { }
 
